@@ -1,3 +1,4 @@
+//Same code as ProcesorNou
 package loose.oose.fis.documents;
 
 public abstract class Document {
